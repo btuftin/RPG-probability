@@ -64,7 +64,7 @@ df %>% ggplot() +
   ggtitle("Effect of a +1 gain in modifier")
 ```
 
-If you have a +3 to hit and you're up against a target of 13, getting that additional +1 is an additional 10%. If you have to hit a target of 20, it's an additional 25%, but that only shifts you from a probability of .20 to .25, so you're still going to roll a lot of misses.
+If you have a +3 to hit and you're up against a target of 14, getting that additional +1 is an additional 10%. If you have to hit a target of 20, it's an additional 25%, but that only shifts you from a probability of .20 to .25, so you're still going to roll a lot of misses.
 
 ## Conclusion
 
